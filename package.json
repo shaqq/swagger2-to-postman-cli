@@ -1,0 +1,27 @@
+{
+  "name": "swagger2-to-postman-cli",
+  "version": "1.0.0",
+  "description": "Simple CLI wrapper over swagger2-to-postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaqq/swagger2-to-postman-cli.git"
+  },
+  "keywords": [
+    "swagger",
+    "postman",
+    "cli"
+  ],
+  "author": "Shaker Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaqq/swagger2-to-postman-cli/issues"
+  },
+  "homepage": "https://github.com/shaqq/swagger2-to-postman-cli#readme",
+  "dependencies": {
+    "swagger2-to-postman": "^1.1.4"
+  }
+}
